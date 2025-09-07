@@ -43,8 +43,8 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Demo',
-        home: HomeScreen(),
+        title: 'Vegi app',
+        home: SignIn(),
       ),
     );
   }
